@@ -1,0 +1,25 @@
+[INFO][server.go:36] 2023/07/17 11:55:17 start listen
+[INFO][server.go:61] 2023/07/17 11:58:41 accept link
+[INFO][server.go:61] 2023/07/17 11:58:41 accept link
+[WARN][echo.go:51] 2023/07/17 11:58:41 read tcp 127.0.0.1:6379->127.0.0.1:54626: read: connection reset by peer
+[INFO][server.go:61] 2023/07/17 11:58:42 accept link
+[WARN][echo.go:51] 2023/07/17 11:58:42 read tcp 127.0.0.1:6379->127.0.0.1:54627: read: connection reset by peer
+[INFO][server.go:61] 2023/07/17 11:58:47 accept link
+[WARN][echo.go:51] 2023/07/17 11:58:47 read tcp 127.0.0.1:6379->127.0.0.1:54628: read: connection reset by peer
+[INFO][server.go:61] 2023/07/17 11:58:51 accept link
+[WARN][echo.go:51] 2023/07/17 11:58:51 read tcp 127.0.0.1:6379->127.0.0.1:54640: read: connection reset by peer
+[INFO][server.go:61] 2023/07/17 11:58:51 accept link
+[INFO][server.go:61] 2023/07/17 11:58:51 accept link
+[WARN][echo.go:51] 2023/07/17 11:58:52 read tcp 127.0.0.1:6379->127.0.0.1:54641: read: connection reset by peer
+[INFO][server.go:61] 2023/07/17 11:58:52 accept link
+[WARN][echo.go:51] 2023/07/17 11:58:57 read tcp 127.0.0.1:6379->127.0.0.1:54642: read: connection reset by peer
+[INFO][server.go:61] 2023/07/17 11:58:57 accept link
+[WARN][echo.go:51] 2023/07/17 11:59:00 read tcp 127.0.0.1:6379->127.0.0.1:54647: read: connection reset by peer
+[WARN][echo.go:51] 2023/07/17 11:59:30 read tcp 127.0.0.1:6379->127.0.0.1:54648: read: connection reset by peer
+[INFO][server.go:61] 2023/07/17 11:59:30 accept link
+[INFO][server.go:61] 2023/07/17 11:59:30 accept link
+[INFO][echo.go:48] 2023/07/17 11:59:54 Connection close
+[INFO][server.go:61] 2023/07/17 12:00:04 accept link
+[INFO][echo.go:48] 2023/07/17 12:00:33 Connection close
+[INFO][echo.go:48] 2023/07/17 12:00:33 Connection close
+[INFO][echo.go:48] 2023/07/17 12:00:50 Connection close
