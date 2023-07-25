@@ -23,3 +23,5 @@
 [INFO][echo.go:48] 2023/07/17 12:00:33 Connection close
 [INFO][echo.go:48] 2023/07/17 12:00:33 Connection close
 [INFO][echo.go:48] 2023/07/17 12:00:50 Connection close
+[INFO][server.go:46] 2023/07/18 17:29:47 shutting down
+[INFO][echo.go:63] 2023/07/18 17:29:47 handler shutting down

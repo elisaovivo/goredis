@@ -5,10 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9e7b4698-c72f-4817-83b3-07d13126893e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/resp/parser/parser.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/database/echo_database.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastruct/dict/dict.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/datastruct/dict/sync_dict.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/interface/database/database.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resp/connection/conn.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/resp/handler/handler.go" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resp/reply/error.go" beforeDir="false" afterPath="$PROJECT_DIR$/resp/reply/error.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/resp/reply/reply.go" beforeDir="false" afterPath="$PROJECT_DIR$/resp/reply/reply.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/logs/godis-17700-70-70.log" beforeDir="false" afterPath="$PROJECT_DIR$/logs/godis-17700-70-70.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,14 +67,6 @@
     </key>
   </component>
   <component name="RunManager">
-    <configuration default="true" type="GoApplicationRunConfiguration" factoryName="Go Application">
-      <module name="goredis" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="FILE" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <method v="2" />
-    </configuration>
     <configuration name="go build go-redis" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="goredis" />
       <working_directory value="$PROJECT_DIR$" />
@@ -77,15 +74,6 @@
       <package value="go-redis" />
       <directory value="$PROJECT_DIR$" />
       <filePath value="$PROJECT_DIR$/main.go" />
-      <method v="2" />
-    </configuration>
-    <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
-      <module name="goredis" />
-      <working_directory value="$PROJECT_DIR$" />
-      <kind value="DIRECTORY" />
-      <directory value="$PROJECT_DIR$" />
-      <filePath value="$PROJECT_DIR$" />
-      <framework value="gotest" />
       <method v="2" />
     </configuration>
     <recent_temporary>
